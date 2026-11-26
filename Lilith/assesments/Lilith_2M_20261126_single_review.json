@@ -1,0 +1,48 @@
+{
+ "name": "Lilith_2M_20261126",
+ "dir": "Z:\\Rodin_Character_Models\\Lilith\\Lilith_OBJ_2M",
+ "objects": 1,
+ "verts": 1000000,
+ "faces": 2000000,
+ "tris": 2000000,
+ "quads": 0,
+ "ngons": 0,
+ "open_edges": 0,
+ "non_manifold_edges": 0,
+ "bbox_min": [
+  -0.6068999767303467,
+  -0.3287999927997589,
+  0.0
+ ],
+ "bbox_max": [
+  0.6067000031471252,
+  0.32850000262260437,
+  1.8983999490737915
+ ],
+ "textures": {
+  "shaded.png": [
+   4096,
+   4096
+  ],
+  "texture_diffuse.png": [
+   4096,
+   4096
+  ],
+  "texture_metallic.png": [
+   2048,
+   2048
+  ],
+  "texture_normal.png": [
+   2048,
+   2048
+  ],
+  "texture_pbr.png": [
+   2048,
+   2048
+  ],
+  "texture_roughness.png": [
+   2048,
+   2048
+  ]
+ }
+}

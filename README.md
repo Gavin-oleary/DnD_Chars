@@ -8,7 +8,7 @@ This repo holds 3D character models for a Dungeons & Dragons cast. The models we
 |---|---|---|
 | Agmundr | `Agmundr/` | 2M, 200K quad |
 | Astaroth | `Astaroth/` | 2M, 200K quad, 10K n-gon, BANG 200K quad |
-| Lilith (adult) | `Lilith/` | 2M |
+| Lilith (adult) | `Lilith/` | 2M, 200K quad, BANG 200K quad |
 | Lilith (kid) | `lilith-kid/` | none yet |
 | Nyxen | `Nyxen/` | 2M, 200K quad |
 | Rose | `Rose/` | 2M, 200K quad |
@@ -57,4 +57,4 @@ Folder names inside old-gen sets were kept as they were when the work was done, 
 
 `.gitignore` excludes the model binaries: `.obj`, `.fbx`, `.glb`, `.usdz`, `.blend`, `.blend1` and `.iAvatar`. Together they come to about 7.5 GB, and 26 of them are over GitHub's 100 MB file limit. They remain in the local working copy next to their textures.
 
-`_FINAL_CANDIDATES/` holds the current candidate for Agmundr, Astaroth, Nyxen, Rose and Sylas. The repo has a preview image for each one, and the candidate FBX files are local only.
+`_FINAL_CANDIDATES/` holds the current candidate for Agmundr, Astaroth, Lilith, Nyxen, Rose and Sylas. The repo has a preview image for each one, and the candidate FBX files are local only.

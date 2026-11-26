@@ -1,0 +1,123 @@
+{
+ "actor": "Lilith",
+ "quad_dir": "Z:\\Rodin_Character_Models\\Lilith\\Lilith_OBJ_200K_Quad",
+ "high_dir": "Z:\\Rodin_Character_Models\\Lilith\\Lilith_OBJ_2M",
+ "quad": {
+  "objects": 1,
+  "verts": 168365,
+  "faces": 168368,
+  "quad_share": 0.9988715195286515,
+  "tris": 190,
+  "ngons": 0,
+  "bbox_min": [
+   -0.6053000092506409,
+   -0.3257000148296356,
+   0.0
+  ],
+  "bbox_max": [
+   0.6051999926567078,
+   0.3260999917984009,
+   1.898300051689148
+  ],
+  "textures": {
+   "shaded.png": [
+    4096,
+    4096
+   ],
+   "texture_diffuse.png": [
+    4096,
+    4096
+   ],
+   "texture_metallic.png": [
+    2048,
+    2048
+   ],
+   "texture_normal.png": [
+    2048,
+    2048
+   ],
+   "texture_pbr.png": [
+    2048,
+    2048
+   ],
+   "texture_roughness.png": [
+    2048,
+    2048
+   ]
+  }
+ },
+ "high": {
+  "objects": 1,
+  "verts": 1000000,
+  "faces": 2000000,
+  "bbox_min": [
+   -0.6068999767303467,
+   -0.3287999927997589,
+   0.0
+  ],
+  "bbox_max": [
+   0.6067000031471252,
+   0.32850000262260437,
+   1.8983999490737915
+  ],
+  "textures": {
+   "shaded.png": [
+    4096,
+    4096
+   ],
+   "texture_diffuse.png": [
+    4096,
+    4096
+   ],
+   "texture_metallic.png": [
+    2048,
+    2048
+   ],
+   "texture_normal.png": [
+    2048,
+    2048
+   ],
+   "texture_pbr.png": [
+    2048,
+    2048
+   ],
+   "texture_roughness.png": [
+    2048,
+    2048
+   ]
+  }
+ },
+ "gap_mm_per_m": {
+  "quad_to_2m": [
+   0.22,
+   0.66,
+   1.14,
+   2.01
+  ],
+  "2m_to_quad": [
+   0.3,
+   0.71,
+   1.21,
+   2.32
+  ],
+  "quad_to_2m_x_neg": [
+   0.06,
+   0.18,
+   0.42,
+   1.21
+  ],
+  "quad_to_2m_x_pos": [
+   0.6,
+   1.02,
+   1.42,
+   2.29
+  ],
+  "quad_to_2m_head": [
+   0.24,
+   0.62,
+   1.05,
+   1.66
+  ]
+ },
+ "same_model": true
+}
