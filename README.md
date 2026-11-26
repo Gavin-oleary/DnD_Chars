@@ -16,7 +16,7 @@ This repo holds 3D character models for a Dungeons & Dragons cast. The models we
 | Sylas (kid) | `Sylas-kid/` | none yet |
 | Umbral serpent | `Umbral_serpent/` | none yet |
 
-The number in an export name is its polygon budget. "Quad" and "n-gon" give the face type of the remeshed version.
+The number in an export name is its polygon budget. "Quad" and "n-gon" give the face type of the remeshed version. A BANG export is a parts breakdown of the model.
 
 Every character also has an older generation folder (see below). Umbral serpent has only that.
 
