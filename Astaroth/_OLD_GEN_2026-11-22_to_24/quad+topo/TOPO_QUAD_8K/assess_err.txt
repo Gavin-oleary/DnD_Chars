@@ -1,0 +1,9 @@
+C:\Users\olear\Pictures\Screenshots\characters\asteroth\quad+topo\assess_fbx.py:47: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  w=bpy.data.worlds.new('W'); sc.world=w; w.use_nodes=True
+C:\Users\olear\Pictures\Screenshots\characters\asteroth\quad+topo\assess_fbx.py:60: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  clay=bpy.data.materials.new('clay'); clay.use_nodes=True
+Traceback (most recent call last):
+  File "C:\Users\olear\Pictures\Screenshots\characters\asteroth\quad+topo\assess_fbx.py", line 75, in <module>
+    sc.display.shading.show_wire=False
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'View3DShading' object has no attribute 'show_wire'

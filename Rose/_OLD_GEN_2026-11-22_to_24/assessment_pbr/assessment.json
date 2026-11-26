@@ -1,0 +1,73 @@
+{
+ "stats": [
+  {
+   "object": "model",
+   "vertices": 1085181,
+   "faces": 2000000,
+   "quads": 0,
+   "tris": 2000000,
+   "ngons": 0,
+   "non_manifold_edges": 148626,
+   "boundary_edges": 148626,
+   "components": 13318,
+   "largest_components": [
+    133932,
+    130025,
+    104634,
+    72713,
+    62955,
+    54386
+   ],
+   "uv_layers": [
+    "UVMap"
+   ],
+   "materials": [
+    "model"
+   ],
+   "images": [
+    "texture_diffuse",
+    "texture_metallic-texture_roughness",
+    "texture_normal"
+   ],
+   "dimensions_m": [
+    0.8133,
+    0.3539,
+    1.8992
+   ],
+   "shape_keys": [],
+   "vertex_groups": 0,
+   "armature": false
+  }
+ ],
+ "bounds_m": {
+  "min": [
+   -0.40671491622924805,
+   -0.17645779252052307,
+   0.0
+  ],
+  "max": [
+   0.4065391421318054,
+   0.17741191387176514,
+   1.8991987705230713
+  ]
+ },
+ "height_m": 1.8991987705230713,
+ "renders": {
+  "textured_FRONT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\textured_FRONT.png",
+  "textured_FRONT-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\textured_FRONT-RIGHT.png",
+  "textured_RIGHT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\textured_RIGHT-PROFILE.png",
+  "textured_BACK-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\textured_BACK-RIGHT.png",
+  "textured_BACK": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\textured_BACK.png",
+  "textured_BACK-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\textured_BACK-LEFT.png",
+  "textured_LEFT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\textured_LEFT-PROFILE.png",
+  "textured_FRONT-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\textured_FRONT-LEFT.png",
+  "clay_FRONT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\clay_FRONT.png",
+  "clay_FRONT-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\clay_FRONT-RIGHT.png",
+  "clay_RIGHT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\clay_RIGHT-PROFILE.png",
+  "clay_BACK-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\clay_BACK-RIGHT.png",
+  "clay_BACK": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\clay_BACK.png",
+  "clay_BACK-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\clay_BACK-LEFT.png",
+  "clay_LEFT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\clay_LEFT-PROFILE.png",
+  "clay_FRONT-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\rose\\assessment_pbr\\clay_FRONT-LEFT.png"
+ }
+}

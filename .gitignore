@@ -1,0 +1,13 @@
+# 3D model binaries kept out of the repo (images and text only)
+*.obj
+*.OBJ
+*.fbx
+*.FBX
+*.glb
+*.GLB
+*.usdz
+*.USDZ
+*.blend
+*.blend1
+*.iAvatar
+*.iavatar

@@ -1,0 +1,26 @@
+{
+ "res": 4096,
+ "ao_samples": 64,
+ "device": "OPTIX:NVIDIA GeForce RTX 5090,NVIDIA GeForce RTX 5090",
+ "low": {
+  "verts": 5107,
+  "faces": 5667
+ },
+ "high": {
+  "verts": 999994,
+  "faces": 2000000
+ },
+ "t_normal": 9.5,
+ "t_ao": 15.5,
+ "normal_fallback_texels": 679941,
+ "normal_stats": {
+  "mean": [
+   0.5,
+   0.5,
+   0.9950000047683716
+  ]
+ },
+ "ao_mean": 0.6466637253761292,
+ "t_maps": 22.4,
+ "t_total": 25.8
+}

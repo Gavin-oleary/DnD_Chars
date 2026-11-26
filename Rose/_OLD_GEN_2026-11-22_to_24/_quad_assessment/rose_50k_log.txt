@@ -1,0 +1,37 @@
+00:07.438  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\rose_50k\textured_FRONT.png'
+00:11.438  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\rose_50k\clay_FRONT.png'
+00:15.047  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\rose_50k\textured_RIGHT.png'
+00:18.438  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\rose_50k\clay_RIGHT.png'
+00:22.516  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\rose_50k\textured_BACK.png'
+00:25.688  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\rose_50k\clay_BACK.png'
+00:29.485  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\rose_50k\textured_FRONT-LEFT.png'
+00:33.141  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\rose_50k\clay_FRONT-LEFT.png'
+Blender 5.0.1 (hash a3db93c5b259 built 2025-12-16 01:32:30)
+FBX version: 7400
+[
+ {
+  "name": "model",
+  "verts": 89079,
+  "faces": 89054,
+  "quads": 88874,
+  "tris": 180,
+  "ngons": 0,
+  "non_manifold_edges": 144,
+  "boundary_edges": 144,
+  "components": 49,
+  "non4_valence_verts": 475,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.8107,
+   0.3425,
+   1.8983
+  ],
+  "materials": [
+   "model"
+  ]
+ }
+]
+
+Blender quit

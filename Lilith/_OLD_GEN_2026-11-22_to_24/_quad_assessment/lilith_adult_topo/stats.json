@@ -1,0 +1,117 @@
+[
+ {
+  "name": "root.0",
+  "verts": 3117,
+  "faces": 3355,
+  "quads": 2883,
+  "tris": 472,
+  "ngons": 0,
+  "non_manifold_edges": 0,
+  "boundary_edges": 0,
+  "components": 1,
+  "non4_valence_verts": 506,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   1.0344,
+   0.3589,
+   1.8996
+  ],
+  "materials": [
+   "root.0"
+  ]
+ },
+ {
+  "name": "root.1",
+  "verts": 762,
+  "faces": 864,
+  "quads": 637,
+  "tris": 227,
+  "ngons": 0,
+  "non_manifold_edges": 19,
+  "boundary_edges": 19,
+  "components": 5,
+  "non4_valence_verts": 192,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.6009,
+   0.2335,
+   0.7103
+  ],
+  "materials": [
+   "root.1"
+  ]
+ },
+ {
+  "name": "root.2",
+  "verts": 726,
+  "faces": 841,
+  "quads": 607,
+  "tris": 234,
+  "ngons": 0,
+  "non_manifold_edges": 0,
+  "boundary_edges": 0,
+  "components": 1,
+  "non4_valence_verts": 246,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.5778,
+   0.157,
+   0.715
+  ],
+  "materials": [
+   "root.2"
+  ]
+ },
+ {
+  "name": "root.3",
+  "verts": 370,
+  "faces": 394,
+  "quads": 342,
+  "tris": 52,
+  "ngons": 0,
+  "non_manifold_edges": 0,
+  "boundary_edges": 0,
+  "components": 1,
+  "non4_valence_verts": 59,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.0531,
+   0.1893,
+   0.1644
+  ],
+  "materials": [
+   "root.3"
+  ]
+ },
+ {
+  "name": "root.4",
+  "verts": 368,
+  "faces": 389,
+  "quads": 343,
+  "tris": 46,
+  "ngons": 0,
+  "non_manifold_edges": 0,
+  "boundary_edges": 0,
+  "components": 1,
+  "non4_valence_verts": 43,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.0585,
+   0.2423,
+   0.1757
+  ],
+  "materials": [
+   "root.4"
+  ]
+ }
+]

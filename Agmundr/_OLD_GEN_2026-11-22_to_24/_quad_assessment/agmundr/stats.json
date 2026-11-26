@@ -1,0 +1,25 @@
+[
+ {
+  "name": "model",
+  "verts": 5107,
+  "faces": 5667,
+  "quads": 4532,
+  "tris": 1135,
+  "ngons": 0,
+  "non_manifold_edges": 9,
+  "boundary_edges": 9,
+  "components": 3,
+  "non4_valence_verts": 1145,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   1.3055,
+   0.4997,
+   1.904
+  ],
+  "materials": [
+   "model"
+  ]
+ }
+]

@@ -1,0 +1,73 @@
+{
+ "stats": [
+  {
+   "object": "model",
+   "vertices": 537749,
+   "faces": 1000000,
+   "quads": 0,
+   "tris": 1000000,
+   "ngons": 0,
+   "non_manifold_edges": 70808,
+   "boundary_edges": 70808,
+   "components": 4065,
+   "largest_components": [
+    151184,
+    63600,
+    38477,
+    37971,
+    34816,
+    28540
+   ],
+   "uv_layers": [
+    "UVMap"
+   ],
+   "materials": [
+    "model"
+   ],
+   "images": [
+    "texture_diffuse",
+    "texture_metallic-texture_roughness",
+    "texture_normal"
+   ],
+   "dimensions_m": [
+    0.861,
+    0.385,
+    1.8995
+   ],
+   "shape_keys": [],
+   "vertex_groups": 0,
+   "armature": false
+  }
+ ],
+ "bounds_m": {
+  "min": [
+   -0.4311028718948364,
+   -0.19198760390281677,
+   0.0
+  ],
+  "max": [
+   0.4298582077026367,
+   0.19303598999977112,
+   1.899453043937683
+  ]
+ },
+ "height_m": 1.899453043937683,
+ "renders": {
+  "textured_FRONT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\textured_FRONT.png",
+  "textured_FRONT-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\textured_FRONT-RIGHT.png",
+  "textured_RIGHT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\textured_RIGHT-PROFILE.png",
+  "textured_BACK-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\textured_BACK-RIGHT.png",
+  "textured_BACK": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\textured_BACK.png",
+  "textured_BACK-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\textured_BACK-LEFT.png",
+  "textured_LEFT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\textured_LEFT-PROFILE.png",
+  "textured_FRONT-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\textured_FRONT-LEFT.png",
+  "clay_FRONT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\clay_FRONT.png",
+  "clay_FRONT-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\clay_FRONT-RIGHT.png",
+  "clay_RIGHT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\clay_RIGHT-PROFILE.png",
+  "clay_BACK-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\clay_BACK-RIGHT.png",
+  "clay_BACK": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\clay_BACK.png",
+  "clay_BACK-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\clay_BACK-LEFT.png",
+  "clay_LEFT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\clay_LEFT-PROFILE.png",
+  "clay_FRONT-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Sylas\\kid\\assessment_pbr\\clay_FRONT-LEFT.png"
+ }
+}

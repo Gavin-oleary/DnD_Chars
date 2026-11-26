@@ -1,0 +1,163 @@
+[
+ {
+  "name": "root.0",
+  "verts": 3174,
+  "faces": 3329,
+  "quads": 2815,
+  "tris": 514,
+  "ngons": 0,
+  "non_manifold_edges": 168,
+  "boundary_edges": 168,
+  "components": 23,
+  "non4_valence_verts": 484,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.8055,
+   0.3065,
+   1.8609
+  ],
+  "materials": [
+   "root.0"
+  ]
+ },
+ {
+  "name": "root.1",
+  "verts": 429,
+  "faces": 483,
+  "quads": 371,
+  "tris": 112,
+  "ngons": 0,
+  "non_manifold_edges": 0,
+  "boundary_edges": 0,
+  "components": 1,
+  "non4_valence_verts": 128,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.2687,
+   0.1834,
+   0.4424
+  ],
+  "materials": [
+   "root.1"
+  ]
+ },
+ {
+  "name": "root.2",
+  "verts": 473,
+  "faces": 537,
+  "quads": 405,
+  "tris": 132,
+  "ngons": 0,
+  "non_manifold_edges": 0,
+  "boundary_edges": 0,
+  "components": 1,
+  "non4_valence_verts": 129,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.269,
+   0.1833,
+   0.444
+  ],
+  "materials": [
+   "root.2"
+  ]
+ },
+ {
+  "name": "root.3",
+  "verts": 396,
+  "faces": 417,
+  "quads": 371,
+  "tris": 46,
+  "ngons": 0,
+  "non_manifold_edges": 0,
+  "boundary_edges": 0,
+  "components": 1,
+  "non4_valence_verts": 57,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.1302,
+   0.3257,
+   0.1796
+  ],
+  "materials": [
+   "root.3"
+  ]
+ },
+ {
+  "name": "root.4",
+  "verts": 353,
+  "faces": 379,
+  "quads": 323,
+  "tris": 56,
+  "ngons": 0,
+  "non_manifold_edges": 0,
+  "boundary_edges": 0,
+  "components": 1,
+  "non4_valence_verts": 65,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.158,
+   0.322,
+   0.1847
+  ],
+  "materials": [
+   "root.4"
+  ]
+ },
+ {
+  "name": "root.5",
+  "verts": 390,
+  "faces": 426,
+  "quads": 350,
+  "tris": 76,
+  "ngons": 0,
+  "non_manifold_edges": 0,
+  "boundary_edges": 0,
+  "components": 1,
+  "non4_valence_verts": 67,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.0946,
+   0.1045,
+   0.2239
+  ],
+  "materials": [
+   "root.5"
+  ]
+ },
+ {
+  "name": "root.6",
+  "verts": 381,
+  "faces": 414,
+  "quads": 344,
+  "tris": 70,
+  "ngons": 0,
+  "non_manifold_edges": 0,
+  "boundary_edges": 0,
+  "components": 1,
+  "non4_valence_verts": 68,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.0923,
+   0.1161,
+   0.2268
+  ],
+  "materials": [
+   "root.6"
+  ]
+ }
+]

@@ -1,0 +1,37 @@
+00:05.688  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\asteroth\quad+topo\quad\assessment\textured_FRONT.png'
+00:07.922  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\asteroth\quad+topo\quad\assessment\clay_FRONT.png'
+00:09.969  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\asteroth\quad+topo\quad\assessment\textured_RIGHT.png'
+00:12.000  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\asteroth\quad+topo\quad\assessment\clay_RIGHT.png'
+00:14.328  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\asteroth\quad+topo\quad\assessment\textured_BACK.png'
+00:16.344  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\asteroth\quad+topo\quad\assessment\clay_BACK.png'
+00:18.828  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\asteroth\quad+topo\quad\assessment\textured_FRONT-LEFT.png'
+00:21.125  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\asteroth\quad+topo\quad\assessment\clay_FRONT-LEFT.png'
+Blender 5.0.1 (hash a3db93c5b259 built 2025-12-16 01:32:30)
+FBX version: 7400
+[
+ {
+  "name": "model",
+  "verts": 46231,
+  "faces": 46251,
+  "quads": 46206,
+  "tris": 45,
+  "ngons": 0,
+  "non_manifold_edges": 3,
+  "boundary_edges": 3,
+  "components": 2,
+  "non4_valence_verts": 296,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   0.9454,
+   0.7095,
+   1.8982
+  ],
+  "materials": [
+   "model"
+  ]
+ }
+]
+
+Blender quit

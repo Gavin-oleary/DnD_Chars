@@ -1,0 +1,73 @@
+{
+ "stats": [
+  {
+   "object": "model",
+   "vertices": 1158526,
+   "faces": 2000000,
+   "quads": 0,
+   "tris": 2000000,
+   "ngons": 0,
+   "non_manifold_edges": 285708,
+   "boundary_edges": 285708,
+   "components": 22760,
+   "largest_components": [
+    102092,
+    68165,
+    49097,
+    48853,
+    46617,
+    41993
+   ],
+   "uv_layers": [
+    "UVMap"
+   ],
+   "materials": [
+    "model"
+   ],
+   "images": [
+    "texture_diffuse",
+    "texture_metallic-texture_roughness",
+    "texture_normal"
+   ],
+   "dimensions_m": [
+    1.2772,
+    0.4812,
+    1.8978
+   ],
+   "shape_keys": [],
+   "vertex_groups": 0,
+   "armature": false
+  }
+ ],
+ "bounds_m": {
+  "min": [
+   -0.638633131980896,
+   -0.2403966188430786,
+   0.0
+  ],
+  "max": [
+   0.6385716199874878,
+   0.24076777696609497,
+   1.8978345394134521
+  ]
+ },
+ "height_m": 1.8978345394134521,
+ "renders": {
+  "textured_FRONT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\textured_FRONT.png",
+  "textured_FRONT-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\textured_FRONT-RIGHT.png",
+  "textured_RIGHT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\textured_RIGHT-PROFILE.png",
+  "textured_BACK-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\textured_BACK-RIGHT.png",
+  "textured_BACK": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\textured_BACK.png",
+  "textured_BACK-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\textured_BACK-LEFT.png",
+  "textured_LEFT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\textured_LEFT-PROFILE.png",
+  "textured_FRONT-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\textured_FRONT-LEFT.png",
+  "clay_FRONT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\clay_FRONT.png",
+  "clay_FRONT-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\clay_FRONT-RIGHT.png",
+  "clay_RIGHT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\clay_RIGHT-PROFILE.png",
+  "clay_BACK-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\clay_BACK-RIGHT.png",
+  "clay_BACK": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\clay_BACK.png",
+  "clay_BACK-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\clay_BACK-LEFT.png",
+  "clay_LEFT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\clay_LEFT-PROFILE.png",
+  "clay_FRONT-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Lilith\\adult\\assessment_pbr\\clay_FRONT-LEFT.png"
+ }
+}

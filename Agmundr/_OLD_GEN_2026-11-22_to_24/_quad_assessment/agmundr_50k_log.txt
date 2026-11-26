@@ -1,0 +1,37 @@
+00:07.360  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\agmundr_50k\textured_FRONT.png'
+00:11.344  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\agmundr_50k\clay_FRONT.png'
+00:14.969  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\agmundr_50k\textured_RIGHT.png'
+00:18.281  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\agmundr_50k\clay_RIGHT.png'
+00:22.485  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\agmundr_50k\textured_BACK.png'
+00:25.797  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\agmundr_50k\clay_BACK.png'
+00:29.766  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\agmundr_50k\textured_FRONT-LEFT.png'
+00:33.375  render           | Saved: 'C:\Users\olear\Pictures\Screenshots\characters\_quad_assessment\agmundr_50k\clay_FRONT-LEFT.png'
+Blender 5.0.1 (hash a3db93c5b259 built 2025-12-16 01:32:30)
+FBX version: 7400
+[
+ {
+  "name": "model",
+  "verts": 88179,
+  "faces": 88200,
+  "quads": 88160,
+  "tris": 40,
+  "ngons": 0,
+  "non_manifold_edges": 6,
+  "boundary_edges": 6,
+  "components": 3,
+  "non4_valence_verts": 490,
+  "uv_layers": [
+   "UVMap"
+  ],
+  "dimensions": [
+   1.2931,
+   0.4979,
+   1.8945
+  ],
+  "materials": [
+   "model"
+  ]
+ }
+]
+
+Blender quit

@@ -1,0 +1,73 @@
+{
+ "stats": [
+  {
+   "object": "model",
+   "vertices": 1292867,
+   "faces": 2000000,
+   "quads": 0,
+   "tris": 2000000,
+   "ngons": 0,
+   "non_manifold_edges": 485188,
+   "boundary_edges": 485188,
+   "components": 56432,
+   "largest_components": [
+    100944,
+    96623,
+    60876,
+    57258,
+    47440,
+    42601
+   ],
+   "uv_layers": [
+    "UVMap"
+   ],
+   "materials": [
+    "model"
+   ],
+   "images": [
+    "texture_diffuse",
+    "texture_metallic-texture_roughness",
+    "texture_normal"
+   ],
+   "dimensions_m": [
+    1.3022,
+    0.4997,
+    1.8959
+   ],
+   "shape_keys": [],
+   "vertex_groups": 0,
+   "armature": false
+  }
+ ],
+ "bounds_m": {
+  "min": [
+   -0.651217520236969,
+   -0.2507558763027191,
+   0.0
+  ],
+  "max": [
+   0.6509838700294495,
+   0.24898654222488403,
+   1.8958606719970703
+  ]
+ },
+ "height_m": 1.8958606719970703,
+ "renders": {
+  "textured_FRONT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\textured_FRONT.png",
+  "textured_FRONT-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\textured_FRONT-RIGHT.png",
+  "textured_RIGHT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\textured_RIGHT-PROFILE.png",
+  "textured_BACK-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\textured_BACK-RIGHT.png",
+  "textured_BACK": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\textured_BACK.png",
+  "textured_BACK-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\textured_BACK-LEFT.png",
+  "textured_LEFT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\textured_LEFT-PROFILE.png",
+  "textured_FRONT-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\textured_FRONT-LEFT.png",
+  "clay_FRONT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\clay_FRONT.png",
+  "clay_FRONT-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\clay_FRONT-RIGHT.png",
+  "clay_RIGHT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\clay_RIGHT-PROFILE.png",
+  "clay_BACK-RIGHT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\clay_BACK-RIGHT.png",
+  "clay_BACK": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\clay_BACK.png",
+  "clay_BACK-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\clay_BACK-LEFT.png",
+  "clay_LEFT-PROFILE": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\clay_LEFT-PROFILE.png",
+  "clay_FRONT-LEFT": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\agmundr\\assessment_pbr\\clay_FRONT-LEFT.png"
+ }
+}

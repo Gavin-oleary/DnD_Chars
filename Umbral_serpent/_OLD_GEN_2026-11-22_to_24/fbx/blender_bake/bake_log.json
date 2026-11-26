@@ -1,0 +1,23 @@
+{
+ "params": {
+  "res": 4096,
+  "ao_samples": 64,
+  "ao_dist": 0.08,
+  "cage": 0.01,
+  "ray": 0.025,
+  "out": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Umbral_serpent\\fbx\\blender_bake",
+  "low_fbx": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Umbral_serpent\\fbx\\base.fbx",
+  "name": "US_serpent",
+  "tex_dir": "C:\\Users\\olear\\Pictures\\Screenshots\\characters\\Umbral_serpent\\fbx",
+  "light_scale": 0.12
+ },
+ "device": "OPTIX",
+ "low": {
+  "verts": 44607,
+  "faces": 44610
+ },
+ "normal": "Rodin normal map, resampled",
+ "ao_mean": 0.6967740654945374,
+ "t_bakes": 9.3,
+ "t_total": 19.3
+}
