@@ -57,4 +57,4 @@ Folder names inside old-gen sets were kept as they were when the work was done, 
 
 `.gitignore` excludes the model binaries: `.obj`, `.fbx`, `.glb`, `.usdz`, `.blend`, `.blend1` and `.iAvatar`. Together they come to about 7.5 GB, and 26 of them are over GitHub's 100 MB file limit. They remain in the local working copy next to their textures.
 
-The local copy also has a `_FINAL_CANDIDATES/` folder. It contains only FBX files, so it does not appear in the repo.
+`_FINAL_CANDIDATES/` holds the current candidate for Agmundr, Astaroth, Nyxen and Rose. The repo has a preview image for each one, and the candidate FBX files are local only.
