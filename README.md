@@ -13,7 +13,8 @@ This repo holds 3D character models for a Dungeons & Dragons cast. The models we
 | Nyxen | `Nyxen/` | 2M, 200K quad |
 | Rose | `Rose/` | 2M, 200K quad |
 | Sylas (adult) | `Sylas/` | 2M, 200K quad |
-| Sylas (kid) | `Sylas-kid/` | none yet |
+| Sylas (kid) | `Sylas-kid/` | 2M, 200K quad |
+| Sylas (teen) | `Sylas-teen/` | 2M, 200K quad |
 | Umbral serpent | `Umbral_serpent/` | none yet |
 
 The number in an export name is its polygon budget. "Quad" and "n-gon" give the face type of the remeshed version. A BANG export is a parts breakdown of the model.
@@ -57,4 +58,4 @@ Folder names inside old-gen sets were kept as they were when the work was done, 
 
 `.gitignore` excludes the model binaries: `.obj`, `.fbx`, `.glb`, `.usdz`, `.blend`, `.blend1` and `.iAvatar`. Together they come to about 7.5 GB, and 26 of them are over GitHub's 100 MB file limit. They remain in the local working copy next to their textures.
 
-`_FINAL_CANDIDATES/` holds the current candidate for Agmundr, Astaroth, Lilith, Nyxen, Rose and Sylas. The repo has a preview image for each one, and the candidate FBX files are local only.
+`_FINAL_CANDIDATES/` holds the current candidate for Agmundr, Astaroth, Lilith, Nyxen, Rose, Sylas, Sylas (kid) and Sylas (teen). The repo has a preview image for each one, and the candidate FBX files are local only.

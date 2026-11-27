@@ -1,0 +1,123 @@
+{
+ "actor": "Sylas-kid",
+ "quad_dir": "Z:\\Rodin_Character_Models\\Sylas-kid\\Sylas-Kid_OBJ_200K_QUAD",
+ "high_dir": "Z:\\Rodin_Character_Models\\Sylas-kid\\Sylas-Kid_OBJ_2M",
+ "quad": {
+  "objects": 1,
+  "verts": 179814,
+  "faces": 179816,
+  "quad_share": 1.0,
+  "tris": 0,
+  "ngons": 0,
+  "bbox_min": [
+   -0.43220001459121704,
+   -0.17309999465942383,
+   0.0
+  ],
+  "bbox_max": [
+   0.4323999881744385,
+   0.1768999993801117,
+   1.8975000381469727
+  ],
+  "textures": {
+   "shaded.png": [
+    4096,
+    4096
+   ],
+   "texture_diffuse.png": [
+    4096,
+    4096
+   ],
+   "texture_metallic.png": [
+    2048,
+    2048
+   ],
+   "texture_normal.png": [
+    2048,
+    2048
+   ],
+   "texture_pbr.png": [
+    2048,
+    2048
+   ],
+   "texture_roughness.png": [
+    2048,
+    2048
+   ]
+  }
+ },
+ "high": {
+  "objects": 1,
+  "verts": 999994,
+  "faces": 2000000,
+  "bbox_min": [
+   -0.43220001459121704,
+   -0.17630000412464142,
+   0.0
+  ],
+  "bbox_max": [
+   0.4325000047683716,
+   0.1768999993801117,
+   1.8984999656677246
+  ],
+  "textures": {
+   "shaded.png": [
+    4096,
+    4096
+   ],
+   "texture_diffuse.png": [
+    4096,
+    4096
+   ],
+   "texture_metallic.png": [
+    2048,
+    2048
+   ],
+   "texture_normal.png": [
+    2048,
+    2048
+   ],
+   "texture_pbr.png": [
+    2048,
+    2048
+   ],
+   "texture_roughness.png": [
+    2048,
+    2048
+   ]
+  }
+ },
+ "gap_mm_per_m": {
+  "quad_to_2m": [
+   0.19,
+   0.38,
+   0.59,
+   1.13
+  ],
+  "2m_to_quad": [
+   0.21,
+   0.41,
+   0.64,
+   1.37
+  ],
+  "quad_to_2m_x_neg": [
+   0.12,
+   0.23,
+   0.39,
+   0.89
+  ],
+  "quad_to_2m_x_pos": [
+   0.31,
+   0.51,
+   0.72,
+   1.23
+  ],
+  "quad_to_2m_head": [
+   0.26,
+   0.47,
+   0.62,
+   1.22
+  ]
+ },
+ "same_model": true
+}

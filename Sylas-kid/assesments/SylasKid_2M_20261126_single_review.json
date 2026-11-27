@@ -1,0 +1,48 @@
+{
+ "name": "SylasKid_2M_20261126",
+ "dir": "Z:\\Rodin_Character_Models\\Sylas-kid\\Sylas-Kid_OBJ_2M",
+ "objects": 1,
+ "verts": 999994,
+ "faces": 2000000,
+ "tris": 2000000,
+ "quads": 0,
+ "ngons": 0,
+ "open_edges": 0,
+ "non_manifold_edges": 0,
+ "bbox_min": [
+  -0.43220001459121704,
+  -0.17630000412464142,
+  0.0
+ ],
+ "bbox_max": [
+  0.4325000047683716,
+  0.1768999993801117,
+  1.8984999656677246
+ ],
+ "textures": {
+  "shaded.png": [
+   4096,
+   4096
+  ],
+  "texture_diffuse.png": [
+   4096,
+   4096
+  ],
+  "texture_metallic.png": [
+   2048,
+   2048
+  ],
+  "texture_normal.png": [
+   2048,
+   2048
+  ],
+  "texture_pbr.png": [
+   2048,
+   2048
+  ],
+  "texture_roughness.png": [
+   2048,
+   2048
+  ]
+ }
+}

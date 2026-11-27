@@ -11,3 +11,6 @@
 *.blend1
 *.iAvatar
 *.iavatar
+
+# Local-only Blender side project, never committed
+/_BLENDER_SIDE_PROJECT/
